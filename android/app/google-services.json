@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310013230558",
+    "project_id": "personal-register",
+    "storage_bucket": "personal-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310013230558:android:f1731d14d8d820d6b2714f",
+        "android_client_info": {
+          "package_name": "com.personal_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310013230558-0aglilt2t130037oat9lniubkkk930rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZ7hh_g8l_PjeslepnnvYR1ycVH1sUrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310013230558-0aglilt2t130037oat9lniubkkk930rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
